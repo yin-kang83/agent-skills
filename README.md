@@ -2,6 +2,8 @@
 
 > Reusable agent skills for evidence-driven engineering and research.
 > 面向“可核对、可复现、可审计”的 Agent 技能包。
+>
+> **中文说明**：[README.zh-CN.md](README.zh-CN.md) ｜ **微信群分享版**：[docs/微信群分享版.md](docs/微信群分享版.md)
 
 ## Skills
 
