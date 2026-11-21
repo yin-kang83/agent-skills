@@ -9,6 +9,7 @@
 | 技能 | 用途 | 状态 |
 |---|---|---|
 | [`api-contract-check`](skills/api-contract-check/SKILL.zh-CN.md) | 检查大模型 API 的流式记录：有没有明确结束、失败有没有原因、usage/首 token 字段是否可核对 | v0.1.0 |
+| [`material-to-metakb`](skills/material-to-metakb/SKILL.md) | 素材→结构化→元知识库：抓取留档、文本层/扫描 OCR、清洗后核验、入库前核验、SQLite 入库与健康检查 | v0.1.0 |
 | `paper-code-release` | 论文代码脱敏、测试、公开仓、DOI 发布流程 | 计划中 |
 | `evidence-ledger` | 主张—证据分级—未知项登记 | 计划中 |
 
