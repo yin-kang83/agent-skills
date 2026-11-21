@@ -10,6 +10,7 @@
 | Skill | Purpose | Status |
 |---|---|---|
 | [`api-contract-check`](skills/api-contract-check/SKILL.md) | Audit sanitized LLM API records for termination/usage/first-token contract issues | v0.1.0 |
+| [`material-to-metakb`](skills/material-to-metakb/SKILL.md) | Fetch → extract/OCR → clean → verify → structure → verify → ingest materials into a searchable meta-KB | v0.1.0 |
 | `paper-code-release` | Sanitize, test and publish a paper's code/evidence package | planned |
 | `evidence-ledger` | Track claims, evidence levels, and unknowns | planned |
 
