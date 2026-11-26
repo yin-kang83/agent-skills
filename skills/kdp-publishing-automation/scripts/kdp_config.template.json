@@ -1,0 +1,57 @@
+{
+  "_comment": "KDP 上传配置 —— 《輪迴殿》卷一 繁体版。周日限额重置后一键跑。",
+  "language": "Chinese (Traditional) (Beta)",
+  "title": "輪迴殿",
+  "subtitle": "卷一：兩份死錄",
+  "series_title": "輪迴殿",
+  "series_number": "1",
+  "edition_number": "1",
+  "author": "柏下客",
+  "author_first_name": "柏下客",
+  "author_last_name": "",
+  "keywords": [
+    "東方玄幻",
+    "幽冥志怪",
+    "官場懸疑",
+    "中國神話",
+    "陰陽兩界",
+    "推理探案",
+    "長篇小說"
+  ],
+  "description": "一個管死人生意的九品小吏，發現自家的帳簿被人改了。\n\n輪迴殿經卷司錄事顧行舟，抄了六年死錄，抄錯過兩筆，每一筆折一年陽壽。他守的規矩只有一條：不許追問。\n\n直到一個夜裡，他抄到第四十八張死錄——同一個名字，同一個死因，同一個判詞，死期卻差七天。一份是正常歸檔的舊卷，一份的背後蓋著校勘司的印。\n\n他去問主簿，主簿當著他的面把廢卷燒了。火裡最後顯出來的三個字，不是死者的名字，是他自己的。\n\n從此他知道了三件事：幽冥的生死簿有兩層墨；改墨的人用的是一枚被磨掉一個點的仿印；而這座殿底下壓著的，是一位被所有人忘了名字的舊神。\n\n他往上查，查到的人都死了；他往下查，查到一座廟。廟裡擔著三千一百四十七個不能走的魂，廟門上寫著四個字：遇僧讓路。\n\n一個連自己都不在生死簿上的人，要拿什麼去查一樁冥府做了三百年的帳？\n\n——本書為《輪迴殿》第一卷，共十三章。\n\n【本書特色】\n· 東方志怪 × 官場懸疑：不是打怪升級，是查帳、對印、翻舊檔\n· 世界觀看得見：六道、業帳、陰壽、度牒、銷號，每一個設定都落到具體手續上\n· 每一章一個鉤子：兩份死錄、假印、磨印房、空殼、斷詞、假死、執筆\n\n【適合誰讀】\n喜歡《長安十二時辰》式的時限壓力、《大明王朝》式的官僚系統、中式志怪氛圍的讀者。",
+  "categories": [
+    {
+      "note": "Literature & Fiction > Mythology & Folk Tales > Mythology",
+      "l1": "Literature & Fiction",
+      "l2": "Mythology & Folk Tales",
+      "leaf": "Mythology"
+    },
+    {
+      "note": "Science Fiction & Fantasy > Fantasy > Epic",
+      "l1": "Science Fiction & Fantasy",
+      "l2": "Fantasy",
+      "leaf": "Epic"
+    }
+  ],
+  "publishing_rights": "own",
+  "adult_content": false,
+  "ai_disclosure": {
+    "ai_generated": "Yes",
+    "text": "Entire work, with extensive editing",
+    "images": "None",
+    "translations": "None",
+    "tool": "DeepSeek"
+  },
+  "manuscript": "D:\\archive\\novel\\轮回殿\\05_交付物料\\成书\\輪迴殿_卷一_兩份死錄_zh-TW.docx",
+  "cover": "D:\\archive\\novel\\轮回殿\\05_交付物料\\封面\\LunHuiDian_Vol01_Cover_A_tw.jpg",
+  "pricing": {
+    "territories": "All territories",
+    "primary_marketplace": "Amazon.com",
+    "price_usd": "2.99",
+    "royalty": "70",
+    "kdp_select": false,
+    "drm": false
+  },
+  "limit_reset_utc": "2026-11-30T00:00:00Z",
+  "limit_reset_beijing": "2026-11-30 08:00 (周日)"
+}
